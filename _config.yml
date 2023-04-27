@@ -1,0 +1,21 @@
+# Site settings
+title: My Awesome Site
+description: A site powered by Jekyll and Minimal Mistakes
+baseurl: /my-awesome-site # the subpath of your site, e.g. /blog/
+url: https://myusername.github.io
+
+# Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: default
+minimal_mistakes_sidebar: left
+minimal_mistakes_logo: /assets/images/logo.png
+minimal_mistakes_favicon: /assets/images/favicon.png
+minimal_mistakes_social_links:
+  github: "https://github.com/myusername"
+  twitter: "https://twitter.com/myusername"
+  email: "mailto:myemail@example.com"
