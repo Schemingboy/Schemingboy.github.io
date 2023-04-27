@@ -5,3 +5,5 @@
 1. Learn Prompting
 
 https://learnprompting.org/zh-Hans/docs/applied_prompting/build_chatgpt
+
+<a href="https://learnprompting.org/zh-Hans/docs/applied_prompting/build_chatgpt">Learn more about building ChatGPT</a>
